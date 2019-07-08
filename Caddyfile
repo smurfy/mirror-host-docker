@@ -1,0 +1,7 @@
+SCHEMEBASEURL {
+    header / {
+        -Server
+    }
+    gzip
+    tls EMAIL
+}
