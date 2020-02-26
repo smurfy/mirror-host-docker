@@ -1,4 +1,4 @@
-FROM abiosoft/caddy:1.0.1-no-stats AS base
+FROM abiosoft/caddy:1.0.3-no-stats AS base
 
 FROM panubo/sshd
 
